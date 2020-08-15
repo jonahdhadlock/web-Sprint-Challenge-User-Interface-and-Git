@@ -162,6 +162,7 @@ header #lambda {
 header #nav1 {
     width: 75%;
     margin-top: 6%;
+    margin-right: 5%;
     display: flex;
     justify-content: space-around;
 }

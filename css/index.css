@@ -171,10 +171,7 @@ header #nav1 {
     text-decoration: none;
 }
 
-header #traffic {
-    margin: 1% 7% 1% 10%;
-}
-
+header #traffic,
 header #skyline {
     margin: 1% 7% 1% 10%;
 }
@@ -217,6 +214,18 @@ header #skyline {
 
 #box10 {
     background-color: dodgerblue;
+}
+
+section .box:nth-of-type(2) {
+    flex-grow: 1;
+}
+
+section .box:nth-of-type(4) {
+    flex-grow: 1;
+}
+
+section .box:nth-of-type(8) {
+    flex-grow: 1;
 }
 
 main {

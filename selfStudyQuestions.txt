@@ -1,0 +1,24 @@
+Web Sprint Challenge: User Interface and Git
+
+Self-Study Questions
+
+1. Semantic HTML is to structure each web page on a website in such a way that the browser
+udnerstands what the content is; it helps with accessibility as well. It includes tags like
+<form>, <p>, <header>, <h#> (headings), <table>, <section>, <article>, <aside>, and many 
+more. These tags provide information about the actual content of the website unlike <div> 
+and <span>.
+
+2. display: block; displays content/elements on a new line like a <p> or <div>. 
+display: inline; does not create a new line for content/elements, similar to <span>.
+display: block; does not allow any elements to be on the same line with it and forces
+white space around it. display: inline; is displayed in the same block element it is in.
+
+3. Inner to Outer: content, padding, border, margin.
+
+4. align-items: center; will display the content on the center of the y-axis, whereas
+justify-content is for aligning content on the x-axis.
+
+5. Git is valuable because it provides a trail of i) what changes have been made on a
+project over time; ii) who made those changes; and iii) why those changes were made. Git
+also allows for better collaboration and communication between developers. One can see all
+versions of a project and revert to older versions if necessary. 
